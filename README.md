@@ -36,7 +36,7 @@ var myInt 	= new Parameter<Int, InterpolationExponential>('anExponentialIntegerP
 	
 var myBool 	= new Parameter<Bool, InterpolationNone>('aBooleanParameter', false, true);
 	
-myFloat.addObserver(function(p:Parameter) {
+myFloat.addObserver(function(p) {
 	trace(p.getValue());
 	trace(p.getValue(true));
 });
