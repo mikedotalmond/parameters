@@ -1,10 +1,9 @@
 # Parameters
-Using Haxe macro goodness to provide strongly typed Parameter/Observer stuff for Float/Int/Bool types
+Using Haxe abstract goodness to provide strongly typed Parameter/Observer stuff for Float/Int/Bool types
 
 Requires / depends on `hxsignal` haxelib
 
 Based on the Parameter/Mapping parts of the [Tonfall](https://code.google.com/p/tonfall/) library by [Andre Michelle](https://twitter.com/andremichelle).
-
 
 
 ```

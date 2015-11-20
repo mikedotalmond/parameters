@@ -2,7 +2,7 @@
  * Parameter / Mapping
  * @author Mike Almond
  * 
- * Using Haxe macro goodness to provide strongly typed Parameter/Observer stuff for Float/Int/Bool types.
+ * Using Haxe abstract goodness to provide strongly typed Parameter/Observer stuff for Float/Int/Bool types.
  * 
  * Uses / depends on hxsignal
  * 
