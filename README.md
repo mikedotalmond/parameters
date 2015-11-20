@@ -39,7 +39,7 @@ var myBool 	= new Parameter<Bool, InterpolationNone>('aBooleanParameter', false,
 	
 myFloat.addObserver(function(p:Parameter) {
 	trace(p.getValue());
-		trace(p.getValue(true));
+	trace(p.getValue(true));
 });
 
 myFloat.setValue(Math.PI);
